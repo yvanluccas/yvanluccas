@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yvan Fernandes!
+- 🚩 I am Brazilian, and I am a native Portuguese speaker with professional-level proficiency in English.
+- 💻 I have knowledge that aligns well with the projects I have posted here, involving Python, HTML, CSS, JavaScript, and Git.
+- 🌱 I’m currently deepening my knowledge in React and Node.js.  
+- 📫 You can reach me via my email: yvanlfernandes@gmail.com or through LinkedIn, the link to which is in my profile.
